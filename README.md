@@ -1,10 +1,13 @@
 
 # Rezepte
 
-Meine Rezeptesammlung auf GitHub. Auf diese Art bleiben die Rezepte erhalten, nachdem ich beim Kochen das Haus abgefackelt habe.
+Meine persönliche Rezeptesammlung auf GitHub.
 
-Zuvor sammelte ich die Rezepte in meinem Adressbuch, weil dort ein praktisches, alphabetisches Register bereits vorhanden war. Doch als ich neulich Waffeln anrief und niemand abnahm, wusste ich, dass es Zeit ist, etwas zu ändern.
+Things may change anytime.
+
+Ersatz für's Rezepte Sammeln im alten Adressbuch (weil praktisch, alphabetisches Register ist ja schon drin – nur dass die Waffeln nie ans Telefon gingen war irgendwie blöd).
 
 ### Index
 
 [Vegane Pfannkuchen](Vegane_Pfannkuchen.md)  
+[Nudel-Schinken-Gratin vegetarisch](NS-Gratin_vegetarisch.md)
