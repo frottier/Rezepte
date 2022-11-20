@@ -10,4 +10,5 @@ Ersatz für's Rezepte Sammeln im alten Adressbuch (weil praktisch, alphabetische
 ### Index
 
 [Vegane Pfannkuchen](Vegane_Pfannkuchen.md)  
-[Nudel-Schinken-Gratin vegetarisch](NS-Gratin_vegetarisch.md)
+[Nudel-Schinken-Gratin vegetarisch](NS-Gratin_vegetarisch.md)  
+[Pizzateig](Pizzateig.md)
